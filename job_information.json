@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Junior Python Backend Developer",
+        "link": "https://spb.hh.ru/vacancy/77236116?from=vacancy_search_list&query=python",
+        "company": "ООО АпТрейдер (UpTrader)",
+        "salary": "до60 000руб.",
+        "address": "Санкт-Петербург"
+    },
+    {
+        "title": "Python-разработчик (Django, DRF)",
+        "link": "https://spb.hh.ru/vacancy/70705466?from=vacancy_search_list&query=python",
+        "company": "ООО Фабрика Решений",
+        "salary": "60 000 – 220 000руб.",
+        "address": "Москва"
+    },
+    {
+        "title": "Разработчик Python",
+        "link": "https://spb.hh.ru/vacancy/77871173?from=vacancy_search_list&query=python",
+        "company": "ООО Единая Информационная Система ЖКХ",
+        "salary": "90 000 – 150 000руб.",
+        "address": "Санкт-Петербург"
+    },
+    {
+        "title": "Ведущий Python разработчик (удаленно)",
+        "link": "https://spb.hh.ru/vacancy/78106381?from=vacancy_search_list&query=python",
+        "company": "Apostro",
+        "salary": "до8 000USD",
+        "address": "Москва"
+    },
+    {
+        "title": "Backend Developer на Python",
+        "link": "https://spb.hh.ru/vacancy/78090926?from=vacancy_search_list&query=python",
+        "company": "Creative",
+        "salary": "от150 000руб.",
+        "address": "Санкт-Петербург"
+    }
+]
